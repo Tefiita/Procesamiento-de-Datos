@@ -1,0 +1,12 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.table {
+  table-layout: auto !important;
+  width: auto !important;
+  min-width: 0 !important;
+  margin: 0 auto;
+  margin-top: 20px;
+
+}
